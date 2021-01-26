@@ -1,3 +1,3 @@
 # Kodluyoruz 4.Ödev
 
-[test link](https://kodluyoruz-odev4-oguzduran.netlify.app/)
+[lint](https://upbeat-yalow-f378de.netlify.app/)
