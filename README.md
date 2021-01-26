@@ -1,1 +1,3 @@
-"# odev-4-realtime-colors-app-ekremtekerek" 
+# Kodluyoruz 4.Ödev
+
+[test link](https://kodluyoruz-odev4-oguzduran.netlify.app/)
