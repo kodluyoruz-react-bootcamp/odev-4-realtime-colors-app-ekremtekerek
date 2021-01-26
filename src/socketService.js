@@ -3,7 +3,7 @@ import { io } from 'socket.io-client';
 let socket;
 
 export const initSocket = () => {
-	socket = io('https://runtime-color.herokuapp.com/', {
+	socket = io('https://firstappcolor.herokuapp.com/', {
 		transports: ['websocket'],
 	});
 
